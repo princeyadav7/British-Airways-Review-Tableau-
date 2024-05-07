@@ -13,8 +13,11 @@ Analysis:
 The analysis is conducted using Tableau, a powerful data visualization tool. The following insights are provided:
 
 Overall Rating by Country: Visualizes the average rating of British Airways by different countries.
+
 Overall Rating by Month: Displays the trend of ratings over different months.
+
 Filtering by Categories: Users can filter reviews based on categories such as comfort, service, food, etc., to gain deeper insights into specific aspects of customer experience.
+
 Usage:
 To use this analysis:
 
@@ -22,6 +25,7 @@ Clone the repository to your local machine.
 Open the Tableau workbook provided.
 Interact with the visualizations to explore different aspects of the data.
 Utilize filters to narrow down analysis based on specific categories or criteria.
+
 Acknowledgements:
 Data sourced from various review platforms.
 Tableau for providing a robust platform for data visualization.
