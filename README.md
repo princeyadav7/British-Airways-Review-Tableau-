@@ -12,6 +12,8 @@ The data used for this analysis is sourced from multiple review platforms and is
 Analysis:
 The analysis is conducted using Tableau, a powerful data visualization tool. The following insights are provided:
 
+![Screenshot 2024-05-06 230605](https://github.com/princeyadav7/British-Airways-Review-Tableau-/assets/133991180/87649531-a98a-436b-8ff5-336c383f8daa)
+
 Overall Rating by Country: Visualizes the average rating of British Airways by different countries.
 
 Overall Rating by Month: Displays the trend of ratings over different months.
